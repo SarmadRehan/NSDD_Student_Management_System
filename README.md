@@ -1,4 +1,4 @@
-# NSDD, Natinal University of Technology, Islamabad
+# NSDD, National University of Technology, Islamabad
 
 Student Management System
-Flutter pub get
+
